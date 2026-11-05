@@ -7,3 +7,4 @@ int main (){
 cout<< "onstore";
 return 0;
 }
+BY - Abdul Moiz Khan
